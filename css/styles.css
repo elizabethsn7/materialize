@@ -10,7 +10,9 @@ nav {
 #newBtn {
 	background-color: #4fd5d6;
 }
-
+#aboutMe h4 {
+	margin-top: 105px;
+}
 .threeCentered {
 	background-color: red;
 }
@@ -26,4 +28,5 @@ nav {
 }
 .left-align {
 	padding-right: 25px;
+	background-color: #4fd5d6;
 }
