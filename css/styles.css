@@ -1,0 +1,29 @@
+nav {
+	background-color: #4fd5d6;
+}
+#aboutMe {
+	color: #2e0000;
+}
+#fewd {
+    color: #da3f06;
+}
+#newBtn {
+	background-color: #4fd5d6;
+}
+
+.threeCentered {
+	background-color: red;
+}
+#iconSection {
+	border-top: 1.5px solid #ffbb01;
+	background-color: #4fd5d6;
+	margin-top: -140px;
+	padding-top: 20px;
+}
+
+.page-footer .bottomRow{
+	color: #4fd5d6;
+}
+.left-align {
+	padding-right: 25px;
+}
